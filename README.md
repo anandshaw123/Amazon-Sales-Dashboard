@@ -13,18 +13,9 @@
 
 
 
-<img width="96" height="96" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-power-bi-a-business-analytics-service-by-microsoft-logo-shadow-tal-revivo.png" alt="Power BI"/>
-
+PowerBI
 <div style="display:flex;gap:10px;">
   <img width="64" height="64" src="https://img.icons8.com/color/144/power-bi.png" alt="Power BI"/>
-  <img width="64" height="64" src="https://img.icons8.com/color/144/azure-synapse-analytics.png" alt="Azure Synapse"/>
-</div>
-
-
-
-<div style="display:flex;gap:10px;">
-  <img width="64" height="64" src="https://img.icons8.com/color/144/power-bi.png" alt="Power BI"/>
-  <img width="64" height="64" src="https://img.icons8.com/color/144/azure-synapse-analytics.png" alt="Azure Synapse"/>
 </div>
 
 
