@@ -13,6 +13,22 @@
 
 
 
+<img width="96" height="96" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-power-bi-a-business-analytics-service-by-microsoft-logo-shadow-tal-revivo.png" alt="Power BI"/>
+
+<div style="display:flex;gap:10px;">
+  <img width="64" height="64" src="https://img.icons8.com/color/144/power-bi.png" alt="Power BI"/>
+  <img width="64" height="64" src="https://img.icons8.com/color/144/azure-synapse-analytics.png" alt="Azure Synapse"/>
+</div>
+
+
+
+<div style="display:flex;gap:10px;">
+  <img width="64" height="64" src="https://img.icons8.com/color/144/power-bi.png" alt="Power BI"/>
+  <img width="64" height="64" src="https://img.icons8.com/color/144/azure-synapse-analytics.png" alt="Azure Synapse"/>
+</div>
+
+
+
 AMAZON SALES DASHBOARD
 
 Wrapped 🫔 up my latest practice based project and 🚀 excited to showcase the power of data-driven decision-making through this Amazon sales analysis dashboard. Dive deep into analytics, uncover trends, and make informed decisions!
